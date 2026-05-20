@@ -33,20 +33,11 @@ int main()
             printf("It is Saturday\n");
             break;
         case 7:
-            printf("It is Sumday\n");
+            printf("It is Sunday\n");
             break;
         default:
             printf("Please only enter a number from 1-7");
     }
-
-
-
-
-
-
-
-
-
 
 
     return 0;
