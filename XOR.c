@@ -15,7 +15,7 @@ int main()
     
     printf("\n");
 
-    char Plaintext2[12] = "secret0000i";
+    char Plaintext2[12] = "secret007ui";
     char Key2[12] = "MJKINGoFPOP";
     char Ciphertext2[12] = "\0";
 
